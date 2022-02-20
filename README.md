@@ -1,4 +1,4 @@
 # ECEN-601-MP
 
-■ homework \n
+■ homework    
 ■ notes
